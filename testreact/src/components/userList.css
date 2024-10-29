@@ -1,0 +1,24 @@
+.user-list-heading {
+    color: red;
+    text-align: center;
+}
+
+.table-custom {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+.table-custom th,
+.table-custom td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+.table-custom th {
+    background-color: #f2f2f2;
+}
+
+.table-custom tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
